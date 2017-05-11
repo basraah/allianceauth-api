@@ -1,0 +1,2 @@
+djangorestframework>=3.6.2
+django-rest-swagger>=2.1.2
